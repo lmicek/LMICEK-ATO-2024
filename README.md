@@ -2,11 +2,20 @@
 This repo is created for the All Things Open 2024 talk titled "From Idea to Deployment: Understanding Development Best Practices"
 
 ## Getting Started
+
+### All Machine Instructions
 - git clone https://github.com/lmicek/LMICEK-ATO-2024.git
 - python -m venv venv
 - pip install -r requirements.txt
 - cd dev-best-practice
+
+### Mac Instructions
+
 - mkdocs serve
+
+### Windows Instructions
+
+- python -m mkdocs serve
 
 # Mkdocs
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
