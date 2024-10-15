@@ -9,6 +9,7 @@ nav:
   - Home:
       - index.md
       - intro.md
+      - intro-participation.md
       - planning.md
       - environment.md
       - coding.md
