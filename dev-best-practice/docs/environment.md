@@ -1,1 +1,3 @@
 # Setting Up Dev Environment
+
+**Setting up a dev environment** is something that should come **after** you already have done some **planning** and **repo creation**. Now you know **what** you are going to make and **where** it will live. One of the **first** things I do when I start a new repo is start to fill out the **'README.md'**. This is not a one time code change, and will need to be **updated** whenever you **change** something about the code base that another person who clones the repo should be able to **understand** when they use it.
