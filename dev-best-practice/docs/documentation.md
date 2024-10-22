@@ -1,3 +1,3 @@
 # Documentation
 
-**Documentation** is possibly one of the most important things you write besides your code and tests. There are also several types of documentation. There is **documenation in your code** where you add comments above functions, there is documentation that can **live in your code base**, and there is documentation that can also **exist outside** of that as well. Just remember, if you make a **change**, you should also think about **updating your documentation**.
+**Documentation** is possibly one of the most important things you write besides your code and tests. There are also several types of documentation. There is **documenation in your code** where you add comments above functions, there is documentation that can **live in your code base**, and there is documentation that can also **exist outside** of the code base. Just remember, if you make a **change**, you should also think about **updating your documentation**.
