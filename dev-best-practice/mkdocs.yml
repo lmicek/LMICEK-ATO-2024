@@ -46,6 +46,7 @@ markdown_extensions:
       base_path: .
 theme:
   name: material
+  logo: assets/every-second-counts.png
   shortcuts:
     help: 191 # ?
     next: 78 # n
