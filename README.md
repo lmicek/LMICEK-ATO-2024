@@ -1,6 +1,8 @@
 # LMICEK-ATO-2024
 This repo is created for the [All Things Open 2024](https://2024.allthingsopen.org/schedule) talk titled "From Idea to Deployment: Understanding Development Best Practices"
 
+Recording: [All Things Open 2024 - From Idea to Deployment: Understanding Development Best Practices - Dry Run](https://www.youtube.com/watch?v=ioK9ywgIbaU&t=1801s)
+
 ## Getting Started
 
 ### All Machine Instructions
